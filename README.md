@@ -8,7 +8,9 @@
 
 Go to `server` folder. Run following commands:
 
+```shell
 > yarn && yarn dev
+```
 
 ### Start Game
 
@@ -16,4 +18,6 @@ Please install egret engine from [official website](https://www.egret.com/en/pro
 
 Go to `game` folder. Run following commands:
 
+```shell
 > egret run -a
+```

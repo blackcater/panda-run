@@ -1,0 +1,11 @@
+# editor
+.idea/
+
+# yarn
+node_modules/
+
+# temp
+temp/
+
+# os
+.DS_Store

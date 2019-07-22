@@ -1,0 +1,9 @@
+{
+  "name": "panda-run-server",
+  "version": "1.0.0",
+  "description": "Server side for panda-run",
+  "main": "src/index.js",
+  "author": "blackcater",
+  "license": "MIT",
+  "private": true
+}

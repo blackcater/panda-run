@@ -123,7 +123,7 @@ var Main = (function (_super) {
                         _a.trys.push([0, 3, , 4]);
                         loadingView = new LoadingUI();
                         this.stage.addChild(loadingView);
-                        return [4 /*yield*/, RES.loadConfig("resource/resource.json", "resource/")];
+                        return [4 /*yield*/, RES.loadConfig("resource/entry.json", "resource/")];
                     case 1:
                         _a.sent();
                         return [4 /*yield*/, RES.loadGroup("preload", 0, loadingView)];
